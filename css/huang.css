@@ -1,14 +1,13 @@
 .list-hours {
   .list-hours-item {
     font-style: normal;
+  }
 }
 
 .list-unstyled-item {
   font-style: normal;
 }
 
-.intro {
-  .intro-img {
-    width: 50%;
-  }
+#img-front-huang {
+  width: 50%;
 }
