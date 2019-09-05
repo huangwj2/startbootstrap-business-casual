@@ -6,7 +6,7 @@
 
 .list-unstyled-item {
   font-style: normal;
-  font-family: 'Arial';
+  font-family: 'Lora';
 }
 
 #img-front-huang {
@@ -15,4 +15,25 @@
 
 #price {
   margin-top: 48px;
+}
+
+
+/* unvisited link */
+a:link {
+  color: #e6a756;
+}
+
+/* visited link */
+a:visited {
+  color: #e6a756;
+}
+
+/* mouse over link */
+a:hover {
+  color: #e6a756;
+}
+
+/* selected link */
+a:active {
+  color: #e6a756;
 }
